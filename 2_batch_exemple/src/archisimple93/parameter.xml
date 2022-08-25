@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Plant name="generic" species="none">
+  <ageAdv>100</ageAdv>
+  <CVDD>0.3490234375</CVDD>
+  <dAdv>1</dAdv>
+  <distAdv>80</distAdv>
+  <dmax>2</dmax>
+  <dmin>0.798828125</dmin>
+  <dSem>0.9</dSem>
+  <EL>27.445068359375</EL>
+  <erAdv>0</erAdv>
+  <erSem>5</erSem>
+  <exportName>myroot</exportName>
+  <exportType>1</exportType>
+  <GDs>400</GDs>
+  <IPD>4.9921875</IPD>
+  <LDC>5000</LDC>
+  <maxAdv>0</maxAdv>
+  <maxSem>1</maxSem>
+  <pdmax>0.8</pdmax>
+  <pdmin>0</pdmin>
+  <PDT>2.60156249999997</PDT>
+  <RDM>0.49921875</RDM>
+  <SGC>0.5</SGC>
+  <sim_length>20</sim_length>
+  <simtime>14.9609375</simtime>
+  <TMD>0.1</TMD>
+  <TrInt>0.003</TrInt>
+  <TrT>1</TrT>
+</Plant>

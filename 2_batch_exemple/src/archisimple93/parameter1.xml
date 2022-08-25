@@ -1,0 +1,31 @@
+
+<Plant name = "generic root system" species = "none">
+
+    <simtime name="simtime" description="Simulation time"                   >   40      </simtime>
+    <erSem name="erSem" 	description="Seminal emission" 					>	5 		</erSem>
+    <dSem name="dSem" 		description="Relative diameter seminal" 		>	0.9 	</dSem>
+    <maxSem name="maxSem" 	description="Max number seminals" 				>	1 		</maxSem>
+    <ageAdv name="ageAdv" 	description="Age emission adventive roots" 		>	100 	</ageAdv>
+    <distAdv name="distAdv" description="Base distance adventive roots"     >	80 		</distAdv>
+    <erAdv name="erAdv" 	description="Adventive root emission" 			>	0 		</erAdv>
+    <dAdv name="dAdv" 		description="Relative diameter adventive root" 	>	1 		</dAdv>
+    <maxAdv name="maxAdv" 	description="Max number adventive roots" 		>	0 		</maxAdv>
+    <dmin name="dmin" 		description="Minimum diameter" 					>	0.3 	</dmin>
+    <dmax name="dmax" 		description="Maximum diameter" 					>	1.2 	</dmax>
+    <EL name="EL" 		    description="Slope elongation-diameter" 		>	35 		</EL>
+    <TrT name="TrT" 		description="Tropism type" 						>	1 		</TrT>
+    <TrInt name="TrInt" 	description="Tropism intensity" 				>	0.003 	</TrInt>
+    <PDT name="PDT" 		description="Primordia development length" 		>	5 		</PDT>
+    <IPD name="IPD" 		description="Inter Primordia distance" 			>	7.1 	</IPD>
+    <pdmax name="pdmax" 	description="emergence probability on dmax" 	>	0.8 	</pdmax>
+    <pdmin name="pdmin" 	description="emergence probability on dmin" 	>	0 		</pdmin>
+    <RDM name="RDM" 		description="Ratio diameter mother-daugther" 	>	0.2 	</RDM>
+    <CVDD name="CVDD" 		description="Coefficient variation lateral diameter" >	0.15 </CVDD>
+    <TMD name="TMD" 		description="tissue mass density" 				>	0.1 	</TMD>
+    <GDs name="GDs" 		description="Coefficient of growth duration" 	>	400 	</GDs>
+    <LDC name="LDC" 		description="Coefficient life duration" 		>	5000 	</LDC>
+    <SGC name="SGC" 		description="Coefficient radial growth" 		>	0.5  	</SGC>
+    <exportType name="exportType"  description="1 = txt, 2 = RSML"          >   1       </exportType>
+    <exportName name="exportName"  description="name of the exported file"  >myroot2</exportName>
+
+</Plant>
